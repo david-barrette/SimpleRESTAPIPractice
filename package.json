@@ -1,0 +1,24 @@
+{
+  "name": "simplerestapipractice",
+  "version": "1.0.0",
+  "description": "Practice Implementing a REST API\r https://www.codementor.io/@wapjude/creating-a-simple-rest-api-with-expressjs-in-5min-bbtmk51mq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-barrette/SimpleRESTAPIPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-barrette/SimpleRESTAPIPractice/issues"
+  },
+  "homepage": "https://github.com/david-barrette/SimpleRESTAPIPractice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "faker": "^5.1.0"
+  }
+}
